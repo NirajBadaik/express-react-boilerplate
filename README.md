@@ -37,8 +37,7 @@ Follow the installation steps to run this code.
 4. Enter your MonggoDB databse details in `.env`
    ```JS
    DB_CONNECTION_STRING = your mongoDB connection string
-   DB_USERNAME = your mongoDB username
-   DB_PASSWORD = your mongoDB password
+
    ```
 5. Open 'server' folder in your source-code editor. Open terminal and run:-
 
